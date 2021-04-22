@@ -2,7 +2,7 @@ from telegram import *
 from telegram.ext import *
 import Responces as R
 
-api_key = "1770974330:AAFOaTA3iXAlLwMT7OTUL1Ie_RRSwIyIrcA"
+api_key = "Your-api-key-here"
 
 print("Bot Started...")
 
